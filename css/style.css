@@ -1,0 +1,102 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+
+#navbarS ul li a {
+	font-size: 26px;
+}
+#navbarS ul li a:hover{
+	color: #C40F2E;
+	border-bottom: 3px solid #C40F2E;
+}
+.active a{
+	border-bottom: 3px solid#C40F2E;
+	color: #C40F2E !important;
+}
+
+/*banner section*/
+.text-heading{
+	color: #000000;
+	padding: 40px 0;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+
+h2 {
+	color: #000000;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px 0;
+}
+
+.fw-icon {
+	color: #000000;
+    padding: 15px 0;
+    text-align: center;
+}
+.fw-icon i{
+	font-size: 30px;
+}
+.fw-icon p{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.bt{
+	margin-top: 25px;
+}
+.adds-box{
+	padding: 30px;
+}
+.btn-danger {
+    font-size: 14px;
+    background-color: #C80F2F !important;
+    padding: 10px 12px;
+    border-radius: 2px;
+}
+a:hover{
+	text-decoration: none;
+}
+
+.sub-live{
+	padding: 20px 0;
+	border-radius: 10px;
+	background-color: #f2f2f2;
+}
+.live-h{
+	font-size: 28px;
+}
+.live{
+	font-size: 20px;
+	color: red;
+	font-weight: bold;
+}
+.live-now{
+	font-size: 24px;
+	color: #000000;
+}
+.videos{
+	padding: 200px;
+	margin: 0 50px;
+	color: #ffffff;
+	background-color:#000000;
+}
+.videos i {
+   
+    padding: 20px;
+    font-size: 80px;
+}
+footer{
+	background-color: #1D4289;
+}
+.coppyright p{
+	color: #ffffff;
+}
+
+.ads_box2{
+	padding: 50px;
+}
